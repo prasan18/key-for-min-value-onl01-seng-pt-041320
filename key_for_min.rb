@@ -3,6 +3,6 @@
 
 def key_for_min_value(name_hash)
   name_hash if value<=1
-puts name_hash[2]
+puts name_hash[]
 
 end
